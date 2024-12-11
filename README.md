@@ -1,4 +1,4 @@
-# clone-sidcup
+# clone-sidcup - https://jaybharuka.github.io/clone-sidcup/ (link to the site)
 Project Overview
 
 This project is a clone of the Sidcup Family Golf website, designed to replicate its user interface and basic functionality. It provides an interactive user experience with multiple web pages, custom styling, and JavaScript features. The project serves as a learning exercise in web development, covering HTML, CSS, and JavaScript.
